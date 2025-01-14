@@ -1,0 +1,6 @@
+numpy==1.24.4
+bayesbay==0.3.0
+matplotlib==3.7.5
+disba==0.6.1
+tqdm==4.66.4
+xarray==2023.1.0
